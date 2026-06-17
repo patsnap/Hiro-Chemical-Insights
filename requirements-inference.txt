@@ -1,0 +1,7 @@
+vllm
+transformers
+qwen-vl-utils
+pillow
+tqdm
+torch
+numpy

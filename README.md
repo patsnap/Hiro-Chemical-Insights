@@ -105,3 +105,39 @@ RULER variant improves `All Pass@1` from 73.23 to 91.92 and `All Pass@all` from
 ## Notes
 
 The image assets and Parquet files are tracked with Git LFS.
+
+## Inference And Evaluation
+
+Install the inference dependencies in a GPU environment:
+
+```bash
+pip install -r requirements-inference.txt
+```
+
+Run vLLM inference. The script reads the prompt from each data record
+(`messages`, `prompt`, `problem`, `question`, or `instruction`) and removes only
+the `<image>` placeholder because the image is passed to the processor as visual
+input.
+
+```bash
+python scripts/infer_vllm.py \
+  --model Hanmeng-Zhong/Hiro-Chemical-Insights \
+  --data test.json \
+  --image-root images \
+  --output outputs/test_predictions.jsonl \
+  --trust-remote-code
+```
+
+Evaluate a prediction JSONL produced by the inference script:
+
+```bash
+python scripts/evaluate_results.py \
+  --input outputs/test_predictions.jsonl \
+  --prediction-field res
+```
+
+Parser sanity check using the gold answer as the prediction field:
+
+```bash
+python scripts/evaluate_results.py --input test.json --prediction-field answer
+```
