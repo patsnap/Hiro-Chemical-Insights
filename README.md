@@ -9,7 +9,6 @@ Rule-guided Reinforcement Learning**.
 
 - Paper: [ACL 2026 accepted manuscript](paper/2026.acl-findings.4540.pdf)
 - Hugging Face model: [Hanmeng-Zhong/Hiro-Chemical-Insights](https://hf.co/Hanmeng-Zhong/Hiro-Chemical-Insights)
-- Related method and dataset project noted in the paper: [kkkeepgoing/RULER](https://github.com/kkkeepgoing/RULER)
 
 ## Overview
 
