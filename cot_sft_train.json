@@ -1,7 +1,7 @@
 [
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_120_0_mol_with_box.jpeg"
+      "images/US20230002396A1/page_120_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -16,7 +16,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_112_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_112_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -31,7 +31,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_123_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_123_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -46,7 +46,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_123_8_mol_with_box.jpeg"
+      "images/US20230002396A1/page_123_8_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -61,7 +61,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_130_6_mol_with_box.jpeg"
+      "images/US11542240B2/page_130_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -76,7 +76,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_118_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_118_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -91,7 +91,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_043_3_mol_with_box.jpeg"
+      "images/US20230002396A1/page_043_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -106,7 +106,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_093_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_093_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -121,7 +121,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_079_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_079_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -136,7 +136,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_044_7_mol_with_box.jpeg"
+      "images/US11542240B2/page_044_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -151,7 +151,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_041_13_mol_with_box.jpeg"
+      "images/US20230002396A1/page_041_13_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -166,7 +166,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_052_2_mol_with_box.jpeg"
+      "images/US10385080/page_052_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -181,7 +181,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_128_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_128_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -196,7 +196,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_031_3_mol_with_box.jpeg"
+      "images/US10385080/page_031_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -211,7 +211,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_116_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_116_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -226,7 +226,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_4_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -241,7 +241,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_122_4_mol_with_box.jpeg"
+      "images/US20230002396A1/page_122_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -256,7 +256,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_093_9_mol_with_box.jpeg"
+      "images/US20230002396A1/page_093_9_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -271,7 +271,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_18_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_18_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -286,7 +286,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11414419B2/page_032_9_mol_with_box.jpeg"
+      "images/US11414419B2/page_032_9_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -301,7 +301,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_120_4_mol_with_box.jpeg"
+      "images/US20230002396A1/page_120_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -316,7 +316,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_026_10_mol_with_box.jpeg"
+      "images/US7271181B2/page_026_10_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -331,7 +331,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_114_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_114_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -346,7 +346,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11414419B2/page_031_3_mol_with_box.jpeg"
+      "images/US11414419B2/page_031_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -361,7 +361,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_036_2_mol_with_box.jpeg"
+      "images/US10385080/page_036_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -376,7 +376,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11414419B2/page_036_0_mol_with_box.jpeg"
+      "images/US11414419B2/page_036_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -391,7 +391,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_007_4_mol_with_box.jpeg"
+      "images/US7271181B2/page_007_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -406,7 +406,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_114_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_114_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -421,7 +421,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_14_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_14_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -436,7 +436,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_026_15_mol_with_box.jpeg"
+      "images/US7271181B2/page_026_15_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -451,7 +451,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_125_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_125_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -466,7 +466,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_120_3_mol_with_box.jpeg"
+      "images/US20230002396A1/page_120_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -481,7 +481,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_123_9_mol_with_box.jpeg"
+      "images/US20230002396A1/page_123_9_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -496,7 +496,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_124_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_124_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -511,7 +511,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_112_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_112_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -526,7 +526,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_041_14_mol_with_box.jpeg"
+      "images/US20230002396A1/page_041_14_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -541,7 +541,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_116_4_mol_with_box.jpeg"
+      "images/US20230002396A1/page_116_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -556,7 +556,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_029_6_mol_with_box.jpeg"
+      "images/US10385080/page_029_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -571,7 +571,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_122_3_mol_with_box.jpeg"
+      "images/US20230002396A1/page_122_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -586,7 +586,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_5_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -601,7 +601,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_029_2_mol_with_box.jpeg"
+      "images/US10385080/page_029_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -616,7 +616,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_041_0_mol_with_box.jpeg"
+      "images/US11542240B2/page_041_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -631,7 +631,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_1_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -646,7 +646,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_113_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_113_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -661,7 +661,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_112_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_112_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -676,7 +676,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_114_0_mol_with_box.jpeg"
+      "images/US20230002396A1/page_114_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -691,7 +691,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_20_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_20_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -706,7 +706,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_15_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_15_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -721,7 +721,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_115_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_115_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -736,7 +736,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_088_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_088_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -751,7 +751,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_117_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_117_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -766,7 +766,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_112_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_112_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -781,7 +781,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_026_12_mol_with_box.jpeg"
+      "images/US7271181B2/page_026_12_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -796,7 +796,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_38_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_38_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -811,7 +811,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_088_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_088_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -826,7 +826,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_118_0_mol_with_box.jpeg"
+      "images/US20230002396A1/page_118_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -841,7 +841,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_026_19_mol_with_box.jpeg"
+      "images/US7271181B2/page_026_19_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -856,7 +856,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_061_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_061_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -871,7 +871,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_042_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_042_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -886,7 +886,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_121_8_mol_with_box.jpeg"
+      "images/US20230002396A1/page_121_8_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -901,7 +901,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_114_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_114_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -916,7 +916,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_0_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -931,7 +931,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11414419B2/page_032_11_mol_with_box.jpeg"
+      "images/US11414419B2/page_032_11_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -946,7 +946,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_046_8_mol_with_box.jpeg"
+      "images/US20230002396A1/page_046_8_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -961,7 +961,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_7_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -976,7 +976,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_007_1_mol_with_box.jpeg"
+      "images/US10385080/page_007_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -991,7 +991,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_054_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_054_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1006,7 +1006,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_026_20_mol_with_box.jpeg"
+      "images/US7271181B2/page_026_20_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1021,7 +1021,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_026_4_mol_with_box.jpeg"
+      "images/US7271181B2/page_026_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1036,7 +1036,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_046_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_046_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1051,7 +1051,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_110_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_110_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1066,7 +1066,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11541056B2/page_020_2_mol_with_box.jpeg"
+      "images/US11541056B2/page_020_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1081,7 +1081,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_120_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_120_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1096,7 +1096,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_050_4_mol_with_box.jpeg"
+      "images/US20230002396A1/page_050_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1111,7 +1111,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_11_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_11_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1126,7 +1126,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_31_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_31_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1141,7 +1141,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_052_3_mol_with_box.jpeg"
+      "images/US20230002396A1/page_052_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1156,7 +1156,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_093_10_mol_with_box.jpeg"
+      "images/US20230002396A1/page_093_10_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1171,7 +1171,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_043_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_043_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1186,7 +1186,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_094_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_094_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1201,7 +1201,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_026_8_mol_with_box.jpeg"
+      "images/US7271181B2/page_026_8_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1216,7 +1216,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_120_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_120_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1231,7 +1231,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_036_4_mol_with_box.jpeg"
+      "images/US10385080/page_036_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1246,7 +1246,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_110_3_mol_with_box.jpeg"
+      "images/US20230002396A1/page_110_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1261,7 +1261,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_089_0_mol_with_box.jpeg"
+      "images/US20230002396A1/page_089_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1276,7 +1276,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_122_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_122_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1291,7 +1291,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_115_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_115_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1306,7 +1306,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_26_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_26_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1321,7 +1321,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_4_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1336,7 +1336,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_126_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_126_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1351,7 +1351,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_125_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_125_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1366,7 +1366,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_128_0_mol_with_box.jpeg"
+      "images/US20230002396A1/page_128_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1381,7 +1381,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_119_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_119_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1396,7 +1396,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_041_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_041_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1411,7 +1411,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_018_3_mol_with_box.jpeg"
+      "images/US7271181B2/page_018_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1426,7 +1426,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_116_3_mol_with_box.jpeg"
+      "images/US20230002396A1/page_116_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1441,7 +1441,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_16_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_16_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1456,7 +1456,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_042_3_mol_with_box.jpeg"
+      "images/US10385080/page_042_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1471,7 +1471,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_112_3_mol_with_box.jpeg"
+      "images/US20230002396A1/page_112_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1486,7 +1486,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_130_7_mol_with_box.jpeg"
+      "images/US11542240B2/page_130_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1501,7 +1501,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_044_9_mol_with_box.jpeg"
+      "images/US10385080/page_044_9_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1516,7 +1516,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_113_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_113_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1531,7 +1531,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_124_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_124_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1546,7 +1546,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_061_8_mol_with_box.jpeg"
+      "images/US20230002396A1/page_061_8_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1561,7 +1561,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_046_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_046_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1576,7 +1576,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_130_3_mol_with_box.jpeg"
+      "images/US11542240B2/page_130_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1591,7 +1591,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_046_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_046_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1606,7 +1606,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_116_8_mol_with_box.jpeg"
+      "images/US20230002396A1/page_116_8_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1621,7 +1621,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11414419B2/page_032_10_mol_with_box.jpeg"
+      "images/US11414419B2/page_032_10_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1636,7 +1636,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_123_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_123_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1651,7 +1651,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_15_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_15_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1666,7 +1666,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_113_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_113_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1681,7 +1681,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_045_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_045_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1696,7 +1696,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_026_7_mol_with_box.jpeg"
+      "images/US7271181B2/page_026_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1711,7 +1711,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_125_3_mol_with_box.jpeg"
+      "images/US20230002396A1/page_125_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1726,7 +1726,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_121_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_121_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1741,7 +1741,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_24_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_24_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1756,7 +1756,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_119_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_119_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1771,7 +1771,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_122_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_122_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1786,7 +1786,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_111_0_mol_with_box.jpeg"
+      "images/US20230002396A1/page_111_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1801,7 +1801,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_112_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_112_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1816,7 +1816,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_045_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_045_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1831,7 +1831,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_19_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_19_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1846,7 +1846,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_17_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_17_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1861,7 +1861,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_6_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1876,7 +1876,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_19_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_19_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1891,7 +1891,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_23_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_23_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1906,7 +1906,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_120_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_120_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1921,7 +1921,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_121_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_121_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1936,7 +1936,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_117_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_117_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1951,7 +1951,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_114_3_mol_with_box.jpeg"
+      "images/US20230002396A1/page_114_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1966,7 +1966,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_36_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_36_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1981,7 +1981,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_064_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_064_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -1996,7 +1996,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_044_6_mol_with_box.jpeg"
+      "images/US10385080/page_044_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2011,7 +2011,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_122_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_122_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2026,7 +2026,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_12_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_12_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2041,7 +2041,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_061_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_061_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2056,7 +2056,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_079_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_079_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2071,7 +2071,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_10_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_10_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2086,7 +2086,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_036_1_mol_with_box.jpeg"
+      "images/US10385080/page_036_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2101,7 +2101,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_054_10_mol_with_box.jpeg"
+      "images/US20230002396A1/page_054_10_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2116,7 +2116,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_115_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_115_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2131,7 +2131,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_124_1_mol_with_box.jpeg"
+      "images/US20230002396A1/page_124_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2146,7 +2146,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_031_1_mol_with_box.jpeg"
+      "images/US10385080/page_031_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2161,7 +2161,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_091_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_091_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2176,7 +2176,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11414419B2/page_055_2_mol_with_box.jpeg"
+      "images/US11414419B2/page_055_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2191,7 +2191,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_10_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_10_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2206,7 +2206,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_007_3_mol_with_box.jpeg"
+      "images/US7271181B2/page_007_3_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2221,7 +2221,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_115_4_mol_with_box.jpeg"
+      "images/US20230002396A1/page_115_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2236,7 +2236,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_125_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_125_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2251,7 +2251,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_115_8_mol_with_box.jpeg"
+      "images/US20230002396A1/page_115_8_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2266,7 +2266,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_121_2_mol_with_box.jpeg"
+      "images/US20230002396A1/page_121_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2281,7 +2281,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_093_12_mol_with_box.jpeg"
+      "images/US20230002396A1/page_093_12_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2296,7 +2296,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_046_1_mol_with_box.jpeg"
+      "images/US11542240B2/page_046_1_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2311,7 +2311,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_29_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_29_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2326,7 +2326,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_074_5_mol_with_box.jpeg"
+      "images/US20230002396A1/page_074_5_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2341,7 +2341,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_031_0_mol_with_box.jpeg"
+      "images/US10385080/page_031_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2356,7 +2356,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_054_8_mol_with_box.jpeg"
+      "images/US20230002396A1/page_054_8_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2371,7 +2371,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_123_0_mol_with_box.jpeg"
+      "images/US20230002396A1/page_123_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2386,7 +2386,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_125_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_125_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2401,7 +2401,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11542240B2/page_043_26_mol_with_box.jpeg"
+      "images/US11542240B2/page_043_26_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2416,7 +2416,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_061_9_mol_with_box.jpeg"
+      "images/US20230002396A1/page_061_9_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2431,7 +2431,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_124_8_mol_with_box.jpeg"
+      "images/US20230002396A1/page_124_8_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2446,7 +2446,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11414419B2/page_032_6_mol_with_box.jpeg"
+      "images/US11414419B2/page_032_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2461,7 +2461,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_126_0_mol_with_box.jpeg"
+      "images/US20230002396A1/page_126_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2476,7 +2476,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US11414419B2/page_032_14_mol_with_box.jpeg"
+      "images/US11414419B2/page_032_14_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2491,7 +2491,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_111_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_111_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2506,7 +2506,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_112_8_mol_with_box.jpeg"
+      "images/US20230002396A1/page_112_8_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2521,7 +2521,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_120_9_mol_with_box.jpeg"
+      "images/US20230002396A1/page_120_9_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2536,7 +2536,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_119_6_mol_with_box.jpeg"
+      "images/US20230002396A1/page_119_6_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2551,7 +2551,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_119_4_mol_with_box.jpeg"
+      "images/US20230002396A1/page_119_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2566,7 +2566,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US10385080/page_061_2_mol_with_box.jpeg"
+      "images/US10385080/page_061_2_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2581,7 +2581,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_120_7_mol_with_box.jpeg"
+      "images/US20230002396A1/page_120_7_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2596,7 +2596,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_119_0_mol_with_box.jpeg"
+      "images/US20230002396A1/page_119_0_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2611,7 +2611,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US20230002396A1/page_125_4_mol_with_box.jpeg"
+      "images/US20230002396A1/page_125_4_mol_with_box.jpeg"
     ],
     "messages": [
       {
@@ -2626,7 +2626,7 @@
   },
   {
     "images": [
-      "/mnt/cfs-ls/zhonghanmeng/LLaMA-Factory-2510/data/images/US7271181B2/page_026_5_mol_with_box.jpeg"
+      "images/US7271181B2/page_026_5_mol_with_box.jpeg"
     ],
     "messages": [
       {

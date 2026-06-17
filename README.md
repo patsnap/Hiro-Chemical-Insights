@@ -30,21 +30,15 @@ reference-name matching, and structure-type classification.
 | --- | --- |
 | `cot_sft_train.json` | 176 supervised fine-tuning examples in chat/message format. |
 | `rl_train.json` | 1,593 reinforcement-learning training examples. |
-| `rl_train.parquet` | Parquet version of the RL training split. |
+| `rl_train.parquet` | Parquet version of `rl_train.json`. |
 | `test.json` | 198 test examples. |
 | `test.parquet` | Parquet version of the test split. |
 | `images/` | 1,538 boxed molecule images from 7 patent documents. |
 | `assets/task-introduction.png` | Task introduction figure. |
 | `paper/2026.acl-findings.4540.pdf` | Local copy of the ACL 2026 accepted manuscript. |
 
-The JSON files preserve the original training-machine image paths. For local
-use in this repository, map the suffix after `/images/` to the checked-in
-`images/` folder. For example:
-
-```text
-/mnt/.../data/images/US20230002396A1/page_120_0_mol_with_box.jpeg
--> images/US20230002396A1/page_120_0_mol_with_box.jpeg
-```
+The data files use repository-relative image paths, for example
+`images/US20230002396A1/page_120_0_mol_with_box.jpeg`.
 
 ## Evaluation
 
@@ -83,7 +77,7 @@ Hiro-Chemical-Insights improves `All Pass@1` from 73.23 to 91.92 and
 
 ```json
 {
-  "images": [".../images/<patent_id>/<image_name>.jpeg"],
+  "images": ["images/<patent_id>/<image_name>.jpeg"],
   "problem": "<image>",
   "answer": "\\boxed{[reference name]: structure type}"
 }
@@ -93,7 +87,7 @@ Hiro-Chemical-Insights improves `All Pass@1` from 73.23 to 91.92 and
 
 ```json
 {
-  "images": [".../images/<patent_id>/<image_name>.jpeg"],
+  "images": ["images/<patent_id>/<image_name>.jpeg"],
   "messages": [
     {"role": "user", "content": "<image>..."},
     {"role": "assistant", "content": "..."}
