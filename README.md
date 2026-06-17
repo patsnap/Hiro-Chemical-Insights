@@ -71,14 +71,11 @@ Main ChemRefMatch results from the ACL 2026 manuscript are shown below.
 | GLM-4.5V | 56.06 | 81.31 | 49.49 | 53.54 | 76.77 | 44.95 |
 | Qwen-vl-max | 47.98 | 76.77 | 43.43 | 44.44 | 66.16 | 33.84 |
 | Qwen3-vl-8B | 44.95 | 34.34 | 17.17 | 40.40 | 29.29 | 10.61 |
-| Qwen3-vl-8B + Cold-Start | 47.98 | 86.87 | 45.96 | 43.94 | 83.84 | 41.41 |
-| + RULER (GRPO) | 90.40 | 98.48 | 88.89 | 81.31 | 95.96 | 78.28 |
-| + RULER (GSPO) | 92.42 | 98.48 | 90.91 | 83.84 | 97.98 | 81.82 |
-| + RULER (DAPO) | **93.43** | **98.48** | **91.92** | **90.40** | **97.98** | **88.38** |
+| Hiro-Chemical-Insights | **93.43** | **98.48** | **91.92** | **90.40** | **97.98** | **88.38** |
 
-Compared with the strongest general MLLM baseline, Gemini-2.5-Pro, the best
-RULER variant improves `All Pass@1` from 73.23 to 91.92 and `All Pass@all` from
-63.13 to 88.38.
+Compared with the strongest general MLLM baseline, Gemini-2.5-Pro,
+Hiro-Chemical-Insights improves `All Pass@1` from 73.23 to 91.92 and
+`All Pass@all` from 63.13 to 88.38.
 
 ## Data Format
 
