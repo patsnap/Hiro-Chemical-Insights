@@ -1,0 +1,1388 @@
+[
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_064_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_114_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_118_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11414419B2/page_055_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_115_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_124_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_125_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_050_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_112_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_115_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_124_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_121_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_044_8_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_054_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_117_9_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_126_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_122_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11414419B2/page_032_13_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_043_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_036_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_061_10_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_122_8_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_088_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_044_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_030_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_007_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_093_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_112_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_044_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_041_12_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_125_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_093_8_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_052_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_115_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_029_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_042_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11414419B2/page_036_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_044_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_046_14_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_036_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_119_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_113_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_054_8_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_041_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_043_19_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_042_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 50]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_060_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[5-(4-(Cyclopentylmethyl)phenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-N,N-dimethyl-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-2-carboxamide]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_065_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Formula number XLVI]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11541056B2/page_020_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(XVII)]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_058_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Formula number XVII]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_037_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 18]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_090_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[5-(4-Butylphenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-2-(3-methylpyrazin-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_122_9_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_054_9_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_056_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Tert-butyl 2-methyl-3-oxoazetidine-1-carboxylate]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_093_10_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_064_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 97]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_081_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cis-5-(4-cyclohexylphenyl)-3-(3-(fluoromethyl)-2-methylazetidine-1-carbonyl)-2-(pyrimidin-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_088_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_120_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_020_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(2,6-Difluoro-phenyl)-(5-iodo-pyridin-2-yl)-amine]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_067_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 35]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_075_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[4-Iodo-1,5-dimethyl-1H-imidazole]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_076_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(R)-5-(4-cyclohexylphenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-2-(2-methylazetidine-1-carbonyl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_123_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_034_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[PM-302M-B]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_054_13_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Methyl 2-fluoro-2',3',4',5'-tetrahydro-[1,1'-biphenyl]-4-carboxylate]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_046_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 91]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11414419B2/page_063_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[formula VIIIa]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_010_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 301]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_064_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Formula number XL]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_121_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_065_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[5-(4-Cyclohexyl-3-fluorophenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-N,N-dimethyl-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-2-carboxamide]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_115_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_099_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[5-(4-Cyclopentylphenyl)-3-((2S,3S)-3-(fluoromethyl)-2-methylazetidine-1-carbonyl)-2-(3-methylpyrazin-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_042_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_012_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 611]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_040_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[formula (I)]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_047_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 99]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_070_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[2-(Tributylstannyl)oxazole]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_103_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[3-((2S,3S)-3-(fluoromethyl)-2-methylazetidine-1-carbonyl)-2-(3-methylpyrazin-2-yl)-5-(4-neopentylphenyl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_064_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 100]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_026_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_114_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_014_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 624]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_063_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[5-(4-Cyclohexyl-3,5-difluorophenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-2-carboxamide]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_061_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 66]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_088_9_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_073_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 98]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_084_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[5-(4-(Cyclopentylmethyl)phenyl)-3-((2S,3S)-3-(fluoromethyl)-2-methylazetidine-1-carbonyl)-2-(pyrimidin-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_088_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_073_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 100]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_099_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Formula number VII]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_057_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Formula number XIII]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_045_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_095_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(S)-5-(4-cyclohexylphenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-2-(1-hydroxy-propan-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_106_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Formula number XXXIX]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_111_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_013_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 615]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_068_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 49]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_062_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Methyl 4-cyclohexyl-3,5-difluorobenzoate]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_061_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_053_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[3-Cyano-5-(4-cyclohexylphenyl)-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-2-carboxylic acid]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_077_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(S)-5-(4-cyclohexylphenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-2-(2-methylazetidine-1-carbonyl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_097_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(S)-ethyl 2-(3-methylpyrazin-2-yl)-7-oxo-5-(4-(2,2,2-trifluoro-1-phenylethoxy) phenyl)-4,7-dihydropyrazolo[1,5-a]pyrimidine-3-carboxylate]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_109_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Formula number IV]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_117_9_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_026_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_125_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_037_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 22]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_046_26_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_125_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_033_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[9]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_012_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 609]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_073_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[5-(4-Cyclohexylphenyl)-3-(3-(fluoromethyl) azetidine-1-carbonyl)-2-(5-methylpyrazin-2-yl) pyrazolo [1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_043_27_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_093_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_057_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[prop-2-yn-1-ol]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11414419B2/page_064_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[VIIIb]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_014_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 627]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_009_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 119]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_118_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_091_8_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[5-(4-(1-Fluorocyclohexyl)phenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-2-(3-methylpyrazin-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_051_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[2-Bromo-5-((4-isopropylbenzyl)oxy)-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-3-carboxylic acid]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_056_8_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 24]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_048_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[2-Bromo-5-(4-(cyclopentylmethyl)phenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_051_8_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_032_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[PM-59I]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_030_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[R18]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11541056B2/page_021_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(VI)]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_100_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(E)-2-(3-methylpyrazin-2-yl)-5-(non-1-en-1-yl)-7-oxo-4,7-dihydropyrazolo [1,5-a]pyrimidine-3-carboxylic acid]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_010_8_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 502]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_098_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[4]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_065_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[5-(4-Cyclohexyl-3-fluorophenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-2-carboxamide]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_034_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[a]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11541056B2/page_031_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(LIII)]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_040_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 39]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_110_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_033_8_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[PM-300H-B]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_087_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[5-((4-(Tert-butyl)benzyl)oxy)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-2-(pyrimidin-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_102_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[2-(3-Methylpyrazin-2-yl)-7-oxo-5-[4-(1,2,2,3,3,4,4,5,5,6,6-undecadeuteriocyclohexyl)phenyl]-4H-pyrazolo[1,5-a]pyrimidine-3-carboxylic acid]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_051_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[PM-70I]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_047_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[2-Bromo-5-(4-(cyclopentylmethyl)phenyl)-7-oxo-4,7-dihydropyrazolo[1,5-a] pyrimidine-3-carboxylic acid]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_114_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_063_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 89]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_046_10_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_030_9_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[R9]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_043_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Formula I]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_114_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_121_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_060_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 57]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_051_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[2-Bromo-5-((4-isopropylbenzyl)oxy)-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-3-carboxylic acid]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_038_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[arenediyl groups]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542240B2/page_102_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Formula number XXIV]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_015_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 632]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_010_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[IC]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_103_0_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[1-Bromo-4-neopentylbenzene]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11541056B2/page_020_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(XV)]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11414419B2/page_042_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11541056B2/page_025_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(XXV)]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_031_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[PM-16I]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_014_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 623]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_007_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 102]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_062_9_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 84]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_055_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Ethyl 3-(4-cyclohexyl-3-fluorophenyl)-3-oxopropanoate]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_045_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 81]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_063_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 92]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_112_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US10385080/page_043_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[None]: substituent}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US7271181B2/page_009_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Cpd. No. 116]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_040_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 36E]: [substituent, Markush structure]}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11541056B2/page_083_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[formula (G)]: [Markush structure, substituent]}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_039_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 36]: [substituent, Markush structure]}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11541056B2/page_083_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(F)]: [Markush structure, substituent]}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_042_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 46]: [substituent, Markush structure]}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_071_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 78]: [substituent, Markush structure]}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_068_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 46]: [substituent, Markush structure]}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11541056B2/page_005_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[(G)]: [Markush structure, substituent]}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_072_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 86]: [substituent, Markush structure]}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_017_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound number 30, 5-(4-Cyclohexylphenyl)-2-(1,5-dimethyl-1H-imidazol-4-yl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_055_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 14a, Compound 14b, Compound 14c, Compound 14d]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_026_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound number 66, 3-((2S,3S)-3-(fluoromethyl)-2-methylazetidine-1-carbonyl)-2-(3-methylpyrazin-2-yl)-5-(4-((R)-2,2,2-trifluoro-1-phenylethoxy)phenyl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_057_6_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Intermediate O, triisopropyl((2-(4,4,5,5-tetramethyl-1,3,2-dioxaborolan-2-yl)allyl)oxy)silane]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_056_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 23, Compound 24, Compound 25]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_045_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Intermediate B, 5-(4-Cyclohexylphenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-2-carboxylic acid]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_013_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound number 14, 5-(4-Cyclohexylphenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-2-(4-methoxypyrimidin-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_056_7_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Intermediate N, Cis-3-(fluoromethyl)-2-methylazetidine 2,2,2-trifluoroacetate]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11414419B2/page_056_5_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[MTK-G, MTK-0063]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_025_3_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound number 62, (R)-1-(5-(4-cyclohexylphenyl)-2-((R)-1-hydroxypropan-2-yl)-7-oxo-4,7-dihydropyrazolo[1,5-a]pyrimidine-3-carbonyl)pyrrolidine-3-carbonitrile]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_032_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 12a, Compound 12b, Compound 12c, Compound 12d]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_054_12_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Intermediate M, 2-Bromo-5-(4-cyclohexyl-3-fluorophenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_038_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 23, Compound 24, Compound 25, Compound 26, Compound 27, Compound 28 (R), Compound 29 (S), Compound 30, Compound 31, Compound 32]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_022_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound number 51, 5-(4-(cyclopentylmethyl)phenyl)-3-((2R,3R)-3-(fluoromethyl)-2-methylazetidine-1-carbonyl)-2-(pyrazin-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_067_4_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Ex. 9, 5-(4-Cyclohexylphenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-2-(4-methylpyrimidin-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_054_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 10a, Compound 10b, Compound 10c, Compound 10d, Compound 10e]: Markush structure}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11414419B2/page_056_8_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[MTK-J, MTK-0068]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US20230002396A1/page_013_2_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound number 13, 5-(4-Cyclohexylphenyl)-3-(3-(fluoromethyl)azetidine-1-carbonyl)-2-(3-methoxypyrazin-2-yl)pyrazolo[1,5-a]pyrimidin-7(4H)-one]: specific compound}"
+  },
+  {
+    "images": [
+      "/mnt/cfs-ls/zhonghanmeng/EasyR1-251024/data/chem_mapping/images/US11542282/page_055_1_mol_with_box.jpeg"
+    ],
+    "problem": "<image>",
+    "answer": "\\boxed{[Compound 13a, Compound 13b, Compound 13c, Compound 13d]: Markush structure}"
+  }
+]

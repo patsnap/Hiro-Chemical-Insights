@@ -1,1 +1,107 @@
 # Hiro-Chemical-Insights
+
+This private repository contains the data files and molecule-image assets for
+the CheST chemical structure-text coreference experiments described in the ACL
+2026 accepted paper:
+
+**Multimodal Chemical Structure-Text Coreference in Intellectual Property via
+Rule-guided Reinforcement Learning**.
+
+- Paper: [ACL 2026 accepted manuscript](paper/2026.acl-findings.4540.pdf)
+- Hugging Face model: [Hanmeng-Zhong/Hiro-Chemical-Insights](https://hf.co/Hanmeng-Zhong/Hiro-Chemical-Insights)
+- Related method and dataset project noted in the paper: [kkkeepgoing/RULER](https://github.com/kkkeepgoing/RULER)
+
+## Overview
+
+CheST targets multimodal chemical structure-text coreference in intellectual
+property documents. Given a patent page image with a boxed chemical structure,
+the task is to identify the structure's textual reference name and classify its
+structure type, such as `specific compound`, `substituent`, `Markush structure`,
+or `Markush structure, substituent`.
+
+RULER is a rule-guided multimodal reinforcement learning framework built on a
+supervised fine-tuning cold start. It uses rule-based rewards for output format,
+reference-name matching, and structure-type classification.
+
+## Repository Contents
+
+| Path | Description |
+| --- | --- |
+| `cot_sft_train.json` | 176 supervised fine-tuning examples in chat/message format. |
+| `rl_train.json` | 1,593 reinforcement-learning training examples. |
+| `rl_train.parquet` | Parquet version of the RL training split. |
+| `test.json` | 198 test examples. |
+| `test.parquet` | Parquet version of the test split. |
+| `images/` | 1,538 boxed molecule images from 7 patent documents. |
+| `paper/2026.acl-findings.4540.pdf` | Local copy of the ACL 2026 accepted manuscript. |
+
+The JSON files preserve the original training-machine image paths. For local
+use in this repository, map the suffix after `/images/` to the checked-in
+`images/` folder. For example:
+
+```text
+/mnt/.../data/images/US20230002396A1/page_120_0_mol_with_box.jpeg
+-> images/US20230002396A1/page_120_0_mol_with_box.jpeg
+```
+
+## Evaluation
+
+The paper evaluates three set-based tasks:
+
+- `RefMatch`: reference-name matching.
+- `StruCls`: structure-type classification.
+- `All`: exact success on both reference names and structure types.
+
+Two metrics are reported:
+
+- `Pass@1`: at least one predicted item overlaps with the gold set.
+- `Pass@all`: the predicted set exactly matches the gold set.
+
+## Main Results
+
+Main ChemRefMatch results from the ACL 2026 manuscript are shown below.
+
+| Model | RefMatch Pass@1 | StruCls Pass@1 | All Pass@1 | RefMatch Pass@all | StruCls Pass@all | All Pass@all |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| GPT-5 | 63.13 | 87.88 | 59.60 | 53.54 | 86.36 | 50.51 |
+| Claude-4.5-sonnet | 57.07 | 78.79 | 48.99 | 45.96 | 73.74 | 36.87 |
+| Gemini-2.5-pro | 75.25 | 83.84 | 73.23 | 66.16 | 82.32 | 63.13 |
+| GLM-4.5V | 56.06 | 81.31 | 49.49 | 53.54 | 76.77 | 44.95 |
+| Qwen-vl-max | 47.98 | 76.77 | 43.43 | 44.44 | 66.16 | 33.84 |
+| Qwen3-vl-8B | 44.95 | 34.34 | 17.17 | 40.40 | 29.29 | 10.61 |
+| Qwen3-vl-8B + Cold-Start | 47.98 | 86.87 | 45.96 | 43.94 | 83.84 | 41.41 |
+| + RULER (GRPO) | 90.40 | 98.48 | 88.89 | 81.31 | 95.96 | 78.28 |
+| + RULER (GSPO) | 92.42 | 98.48 | 90.91 | 83.84 | 97.98 | 81.82 |
+| + RULER (DAPO) | **93.43** | **98.48** | **91.92** | **90.40** | **97.98** | **88.38** |
+
+Compared with the strongest general MLLM baseline, Gemini-2.5-Pro, the best
+RULER variant improves `All Pass@1` from 73.23 to 91.92 and `All Pass@all` from
+63.13 to 88.38.
+
+## Data Format
+
+`rl_train.json` and `test.json` use:
+
+```json
+{
+  "images": [".../images/<patent_id>/<image_name>.jpeg"],
+  "problem": "<image>",
+  "answer": "\\boxed{[reference name]: structure type}"
+}
+```
+
+`cot_sft_train.json` uses a chat-style schema:
+
+```json
+{
+  "images": [".../images/<patent_id>/<image_name>.jpeg"],
+  "messages": [
+    {"role": "user", "content": "<image>..."},
+    {"role": "assistant", "content": "..."}
+  ]
+}
+```
+
+## Notes
+
+The image assets and Parquet files are tracked with Git LFS.
