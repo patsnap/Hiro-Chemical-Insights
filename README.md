@@ -22,6 +22,8 @@ RULER is a rule-guided multimodal reinforcement learning framework built on a
 supervised fine-tuning cold start. It uses rule-based rewards for output format,
 reference-name matching, and structure-type classification.
 
+![CheST task introduction](assets/task-introduction.png)
+
 ## Repository Contents
 
 | Path | Description |
@@ -32,6 +34,7 @@ reference-name matching, and structure-type classification.
 | `test.json` | 198 test examples. |
 | `test.parquet` | Parquet version of the test split. |
 | `images/` | 1,538 boxed molecule images from 7 patent documents. |
+| `assets/task-introduction.png` | Task introduction figure rendered from `task.pptx`. |
 | `paper/2026.acl-findings.4540.pdf` | Local copy of the ACL 2026 accepted manuscript. |
 
 The JSON files preserve the original training-machine image paths. For local
