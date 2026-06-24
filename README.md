@@ -7,7 +7,7 @@ the CheST chemical structure-text coreference experiments described in the ACL
 **Multimodal Chemical Structure-Text Coreference in Intellectual Property via
 Rule-guided Reinforcement Learning**.
 
-- Paper: [ACL 2026 accepted manuscript](paper/2026.acl-findings.4540.pdf)
+- Paper: [ACL 2026](https://aclanthology.org/2026.findings-acl.1489/)
 - Hugging Face model: [Hanmeng-Zhong/Hiro-Chemical-Insights](https://hf.co/Hanmeng-Zhong/Hiro-Chemical-Insights)
 
 ## Overview
@@ -55,7 +55,7 @@ Two metrics are reported:
 
 ## Main Results
 
-Main ChemRefMatch results from the ACL 2026 manuscript are shown below.
+Main results are shown below.
 
 | Model | RefMatch Pass@1 | StruCls Pass@1 | All Pass@1 | RefMatch Pass@all | StruCls Pass@all | All Pass@all |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: |
