@@ -8,7 +8,7 @@ the CheST chemical structure-text coreference experiments described in the ACL
 Rule-guided Reinforcement Learning**.
 
 - Paper: [ACL 2026](https://aclanthology.org/2026.findings-acl.1489/)
-- Hugging Face model: [Hanmeng-Zhong/Hiro-Chemical-Insights](https://hf.co/Hanmeng-Zhong/Hiro-Chemical-Insights)
+- Hugging Face model: [Hiro-Chemical-Insights](https://hf.co/Hanmeng-Zhong/Hiro-Chemical-Insights)
 
 ## Overview
 
