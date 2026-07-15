@@ -121,6 +121,32 @@ python scripts/infer_vllm.py \
   --trust-remote-code
 ```
 
+For your own images, use the direct image entry point. The CheST task prompt is
+built in, so an image path is the only required argument:
+
+```bash
+python scripts/infer_image.py path/to/your/image.jpeg
+```
+
+The command prints parsed JSON and retains the raw model response for debugging:
+
+```json
+{
+  "image": "/absolute/path/to/image.jpeg",
+  "reference_names": ["Compound No. 55"],
+  "structure_types": ["Markush structure", "substituent"],
+  "parsed": true,
+  "raw_output": "...\\boxed{[Compound No. 55]: [Markush structure, substituent]}"
+}
+```
+
+Multiple images can be inferred together and saved as JSONL:
+
+```bash
+python scripts/infer_image.py image1.jpeg image2.png \
+  --output outputs/custom_predictions.jsonl
+```
+
 Evaluate a prediction JSONL produced by the inference script:
 
 ```bash
