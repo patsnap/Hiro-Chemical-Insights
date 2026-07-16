@@ -3,36 +3,62 @@ title: Hiro Chemical Insights
 emoji: 🧪
 colorFrom: blue
 colorTo: indigo
-sdk: gradio
-sdk_version: 5.49.1
-python_version: "3.11"
-app_file: app.py
+sdk: static
+app_file: index.html
 pinned: false
-suggested_hardware: l4x1
-short_description: Chemical structure-text coreference for patent images
+short_description: Static interface for chemical structure-text coreference
 models:
   - PatSnap/Hiro-Chemical-Insights
 ---
 
 # Hiro Chemical Insights
 
-Upload a patent image containing a blue-boxed chemical structure. The model
-returns the structure's textual reference name(s) and one or more structure
-types:
+This Space is a static HTML/JavaScript interface for the Hiro Chemical Insights
+model. It can upload and preview a patent image, call an external inference API,
+parse the model response, and display the reference name(s) and structure type(s).
 
-- `specific compound`
-- `substituent`
-- `Markush structure`
-- `Markush structure, substituent`
+Static Spaces do not run Python, PyTorch, Gradio, or the model itself. Without an
+external inference endpoint, the page operates in preview-only mode and never
+fabricates a prediction.
 
-The underlying model repository is private. Configure an `HF_TOKEN` Space
-secret with read access to `PatSnap/Hiro-Chemical-Insights` before
-starting the app.
+## Configure inference
 
-The model is loaded in 4-bit mode and the recommended Space hardware is one
-NVIDIA L4 GPU with 24 GB VRAM.
+Add a non-secret Space variable named `INFERENCE_API_URL`, or enter a URL in the
+page's **API connection** panel for the current browser session. The endpoint must
+be reachable from the browser over HTTPS and allow CORS requests from the Space.
 
-Generation settings mirror the defaults in
+Do not put a private Hugging Face token or other credential in a Static Space
+variable: Static Space configuration is available to client-side JavaScript.
+
+The frontend sends:
+
+```http
+POST ${INFERENCE_API_URL}
+Content-Type: multipart/form-data
+
+image=<uploaded image file>
+```
+
+The preferred response is:
+
+```json
+{
+  "reference_names": ["Compound No. 55"],
+  "structure_types": ["Markush structure", "substituent"],
+  "raw_output": "..."
+}
+```
+
+The endpoint may instead return only `raw_output`. The browser parser accepts a
+final answer such as:
+
+```text
+\boxed{[Compound No. 55]: [Markush structure, substituent]}
+```
+
+## Inference defaults
+
+The external backend should mirror the defaults in
 [`scripts/infer_image.py`](https://github.com/patsnap/Hiro-Chemical-Insights/blob/main/scripts/infer_image.py):
 
 - seed: `42`
@@ -41,3 +67,15 @@ Generation settings mirror the defaults in
 - top-k: `20`
 - repetition penalty: `1.0`
 - maximum new tokens: `4096`
+
+For local GPU inference without an HTTP endpoint, run:
+
+```bash
+python scripts/infer_image.py path/to/image.jpeg
+```
+
+## Static files
+
+- `index.html`: accessible interface and result layout
+- `style.css`: responsive visual design
+- `app.js`: image handling, API request, output parsing, and rendering

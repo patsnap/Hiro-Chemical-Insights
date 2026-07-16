@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="Static interface for Hiro Chemical Insights chemical structure-text coreference."
+    >
+    <title>Hiro Chemical Insights</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="." aria-label="Hiro Chemical Insights home">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 48 48" role="img">
+              <path d="M16 9h16M20 9v9L9.7 35.8A3 3 0 0 0 12.3 40h23.4a3 3 0 0 0 2.6-4.2L28 18V9"/>
+              <path d="M14.5 31h19M18.5 26h11"/>
+              <circle cx="21" cy="34" r="1.5"/>
+              <circle cx="28" cy="29" r="1.2"/>
+            </svg>
+          </span>
+          <span>
+            <strong>Hiro</strong>
+            <small>Chemical Insights</small>
+          </span>
+        </a>
+        <div class="header-actions">
+          <span class="runtime-badge">
+            <span class="runtime-dot" aria-hidden="true"></span>
+            Static Space
+          </span>
+          <a
+            class="text-link"
+            href="https://github.com/patsnap/Hiro-Chemical-Insights"
+            target="_blank"
+            rel="noreferrer"
+          >GitHub <span aria-hidden="true">↗</span></a>
+        </div>
+      </header>
+
+      <main>
+        <section class="hero" aria-labelledby="page-title">
+          <div class="eyebrow">CHEMICAL STRUCTURE–TEXT COREFERENCE</div>
+          <h1 id="page-title">Connect a structure to the name that defines it.</h1>
+          <p>
+            Upload a patent image containing a blue-boxed chemical structure.
+            Hiro identifies its textual reference and structural role.
+          </p>
+          <div class="type-list" aria-label="Supported structure types">
+            <span>Specific compound</span>
+            <span>Substituent</span>
+            <span>Markush structure</span>
+          </div>
+        </section>
+
+        <section class="workspace" aria-label="Chemical image analysis workspace">
+          <article class="panel upload-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="step-number">01</span>
+                <h2>Patent image</h2>
+              </div>
+              <button id="clear-button" class="ghost-button" type="button" disabled>Clear</button>
+            </div>
+
+            <label id="drop-zone" class="drop-zone" for="image-input">
+              <input id="image-input" type="file" accept="image/png,image/jpeg,image/webp,image/gif">
+              <div id="empty-upload" class="upload-empty">
+                <span class="upload-icon" aria-hidden="true">
+                  <svg viewBox="0 0 24 24">
+                    <path d="M12 16V4m0 0L7.5 8.5M12 4l4.5 4.5M5 14v4a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-4"/>
+                  </svg>
+                </span>
+                <strong>Drop a patent image here</strong>
+                <span>or click to browse · PNG, JPEG, WebP, GIF</span>
+              </div>
+              <img id="image-preview" alt="Uploaded patent preview" hidden>
+              <span id="file-meta" class="file-meta" hidden></span>
+            </label>
+
+            <div id="request-status" class="status-message neutral" role="status" aria-live="polite">
+              Select an image to begin. The file stays in your browser until you run an API request.
+            </div>
+
+            <button id="analyze-button" class="primary-button" type="button" disabled>
+              <span class="button-label">Analyze structure</span>
+              <span class="button-arrow" aria-hidden="true">→</span>
+            </button>
+
+            <details id="api-settings" class="api-settings">
+              <summary>
+                <span>API connection</span>
+                <span id="connection-badge" class="connection-badge disconnected">Not configured</span>
+              </summary>
+              <div class="api-settings-body">
+                <label for="endpoint-input">Inference endpoint URL</label>
+                <div class="endpoint-row">
+                  <input
+                    id="endpoint-input"
+                    type="url"
+                    inputmode="url"
+                    autocomplete="url"
+                    placeholder="https://api.example.com/predict"
+                    spellcheck="false"
+                  >
+                  <button id="apply-endpoint" type="button" class="secondary-button">Apply</button>
+                </div>
+                <p>
+                  The endpoint must accept an <code>image</code> field as
+                  <code>multipart/form-data</code> and allow CORS. Do not enter a token or secret.
+                </p>
+              </div>
+            </details>
+          </article>
+
+          <article class="panel result-panel">
+            <div class="panel-heading">
+              <div>
+                <span class="step-number">02</span>
+                <h2>Coreference result</h2>
+              </div>
+              <span id="result-state" class="result-state idle">Waiting</span>
+            </div>
+
+            <div id="result-empty" class="result-empty">
+              <div class="molecule-placeholder" aria-hidden="true">
+                <span class="node node-a"></span>
+                <span class="node node-b"></span>
+                <span class="node node-c"></span>
+                <span class="node node-d"></span>
+                <span class="bond bond-a"></span>
+                <span class="bond bond-b"></span>
+                <span class="bond bond-c"></span>
+              </div>
+              <strong>Your result will appear here</strong>
+              <span>Reference names and structure types are returned separately.</span>
+            </div>
+
+            <div id="result-content" class="result-content" hidden>
+              <section class="result-block" aria-labelledby="reference-heading">
+                <span class="result-label" id="reference-heading">Reference name(s)</span>
+                <div id="reference-values" class="value-list"></div>
+              </section>
+              <section class="result-block" aria-labelledby="type-heading">
+                <span class="result-label" id="type-heading">Structure type(s)</span>
+                <div id="type-values" class="value-list type-values"></div>
+              </section>
+              <section class="result-block json-block" aria-labelledby="json-heading">
+                <div class="result-label-row">
+                  <span class="result-label" id="json-heading">Parsed JSON</span>
+                  <button id="copy-json" class="copy-button" type="button">Copy</button>
+                </div>
+                <pre id="json-output"></pre>
+              </section>
+              <details class="raw-output">
+                <summary>Raw model response</summary>
+                <pre id="raw-output"></pre>
+              </details>
+            </div>
+          </article>
+        </section>
+
+        <section class="information-grid" aria-label="Deployment information">
+          <article>
+            <span class="info-icon" aria-hidden="true">01</span>
+            <h3>Free static hosting</h3>
+            <p>This interface uses only HTML, CSS, and JavaScript. No Space CPU or GPU runtime is started.</p>
+          </article>
+          <article>
+            <span class="info-icon" aria-hidden="true">02</span>
+            <h3>Bring an inference API</h3>
+            <p>Connect an HTTPS endpoint through the non-secret <code>INFERENCE_API_URL</code> variable.</p>
+          </article>
+          <article>
+            <span class="info-icon" aria-hidden="true">03</span>
+            <h3>Developer-ready output</h3>
+            <p>The UI returns separate arrays for reference names and structure types, plus the raw response.</p>
+          </article>
+        </section>
+      </main>
+
+      <footer>
+        <span>Hiro Chemical Insights · ACL 2026</span>
+        <span>
+          Model:
+          <a href="https://huggingface.co/PatSnap/Hiro-Chemical-Insights" target="_blank" rel="noreferrer">
+            PatSnap/Hiro-Chemical-Insights
+          </a>
+        </span>
+      </footer>
+    </div>
+  </body>
+</html>

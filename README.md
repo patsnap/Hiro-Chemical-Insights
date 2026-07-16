@@ -8,6 +8,7 @@ the CheST chemical structure-text coreference experiments described in the ACL
 Rule-guided Reinforcement Learning**.
 
 - Paper: [ACL 2026](https://aclanthology.org/2026.findings-acl.1489/)
+- GitHub: [patsnap/Hiro-Chemical-Insights](https://github.com/patsnap/Hiro-Chemical-Insights)
 - Hugging Face model: [Hiro-Chemical-Insights](https://huggingface.co/PatSnap/Hiro-Chemical-Insights)
 
 ## Overview
@@ -146,6 +147,19 @@ Multiple images can be inferred together and saved as JSONL:
 python scripts/infer_image.py image1.jpeg image2.png \
   --output outputs/custom_predictions.jsonl
 ```
+
+## Static Space Demo
+
+The [`space/`](space/) directory contains a free-hostable Hugging Face Static
+Space. It provides image upload and preview, calls an optional external
+inference API, parses the model response, and displays reference names and
+structure types.
+
+Static Spaces cannot execute this repository's Python/PyTorch model backend.
+Configure the non-secret `INFERENCE_API_URL` Space variable to connect the UI
+to an HTTPS endpoint that accepts an image as `multipart/form-data`. Without an
+endpoint, the page remains in preview-only mode. Never expose a private model
+access token in the static frontend.
 
 Evaluate a prediction JSONL produced by the inference script:
 
