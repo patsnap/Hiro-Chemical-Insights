@@ -16,7 +16,7 @@ from pathlib import Path
 from typing import Any, Iterable
 
 
-MODEL_ID = "Hanmeng-Zhong/Hiro-Chemical-Insights"
+MODEL_ID = "PatSnap/Hiro-Chemical-Insights"
 
 TASK_PROMPT = """Please identify the reference name(s) of the chemical molecule within the blue rectangle in the image. Determine which category it belongs to: [Markush structure], [substituent], [specific compound], or [Markush structure, substituent].
 
@@ -311,7 +311,7 @@ def build_argument_parser() -> argparse.ArgumentParser:
     parser.add_argument("--top-p", type=float, default=0.8)
     parser.add_argument("--top-k", type=int, default=20)
     parser.add_argument("--repetition-penalty", type=float, default=1.0)
-    parser.add_argument("--max-tokens", type=int, default=2048)
+    parser.add_argument("--max-tokens", type=int, default=4096)
     parser.add_argument("--tensor-parallel-size", type=int, default=1)
     parser.add_argument("--gpu-memory-utilization", type=float, default=0.9)
     parser.add_argument("--dtype", default="bfloat16")

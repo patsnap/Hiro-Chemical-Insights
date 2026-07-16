@@ -152,7 +152,7 @@ def build_llm_inputs(records: list[dict[str, Any]], image_root: Path, processor:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--model", default="Hanmeng-Zhong/Hiro-Chemical-Insights")
+    parser.add_argument("--model", default="PatSnap/Hiro-Chemical-Insights")
     parser.add_argument("--data", required=True, type=Path)
     parser.add_argument("--image-root", default=Path("images"), type=Path)
     parser.add_argument("--output", default=Path("outputs/predictions.jsonl"), type=Path)
